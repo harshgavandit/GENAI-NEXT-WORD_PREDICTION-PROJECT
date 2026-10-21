@@ -1,5 +1,7 @@
 # Next Word Lab — LSTM next-word prediction
 
+**[Open the live app](https://harsh-lstm-next-word.streamlit.app/)** · Hosted on Streamlit Community Cloud.
+
 A browser-based neural language-model demo by Harsh Gavand. Enter an English phrase and explore the next word predicted by the repository's original trained LSTM. The interface shows three ranked suggestions and their model probabilities.
 
 ## How it works
